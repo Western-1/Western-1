@@ -1,14 +1,15 @@
 <div align="center">
   <h1>ANDRIY VLONHA</h1>
-  <h3>Junior MLOps Engineer | Cloud Infrastructure Architect</h3>
+  <img src="https://img.shields.io/badge/Open%20to-Junior%20MLOps-orange?style=for-the-badge" alt="Open to work" />
+  <h3>Junior MLOps Engineer | Cloud &amp; Infrastructure</h3>
   <p>
     <b>Specializing in High-Availability NLP Systems, Container Orchestration, and Automated Deployment Pipelines.</b>
   </p>
   <p>
-    <a href="https://www.linkedin.com/in/андрій-влонга-9562b537b">
+    <a href="https://www.linkedin.com/in/андрій-влонга-9562b537b" rel="noopener">
       <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
-    <a href="mailto:andriy.vlonha.dev.com">
+    <a href="mailto:andriy.vlonha.dev@gmail.com">
       <img src="https://img.shields.io/badge/Contact_via_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
   </p>
