@@ -1,54 +1,74 @@
 <div align="center">
-  <h1>ANDRIY VLONHA</h1>
-  <img src="https://img.shields.io/badge/Open%20to-Junior%20MLOps-orange?style=for-the-badge" alt="Open to work" />
-  <h3>Junior MLOps Engineer | Cloud &amp; Infrastructure</h3>
-  <p>
-    <b>Specializing in High-Availability NLP Systems, Container Orchestration, Automated Deployment Pipelines, and Production-Grade RAG Microservices.</b>
-  </p>
-  <p>
-    <a href="https://www.linkedin.com/in/андрій-влонга-9562b537b" rel="noopener">
-      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="mailto:andriy.vlonha.dev@gmail.com">
-      <img src="https://img.shields.io/badge/Contact_via_Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-    </a>
-  </p>
+  <h1>Hi 👋, I'm Andriy Vlonha</h1>
+  <h3>Junior MLOps Engineer | Building Reliable Production ML Systems</h3>
+  
+  <img src="https://img.shields.io/badge/Looking%20for-Junior%20MLOps%20Engineer-orange?style=for-the-badge&logo=rocket" alt="Open to Work" />
+
+  <br/><br/>
+
+  <a href="https://linkedin.com/in/андрій-влонга-9562b537b" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:andriy.vlonha.dev@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://andriyvlonha.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=firefox" alt="Website" />
+  </a>
 </div>
-<hr/>
-## 0x01. SYSTEM STATUS / INTRODUCTION
-I am a Computer Science student and an aspiring MLOps Engineer focusing on the intersection of Software Engineering and Machine Learning. My primary interest lies not just in model training, but in the **operationalization of ML models**—ensuring they are served reliably, scalably, and securely in production environments.
 
-I approach infrastructure with a software engineering mindset: strictly typed, version-controlled, and tested. My goal is to build systems where deployment is a boring, predictable event rather than a stressful manual process. I've built end-to-end solutions like a low-latency NLP inference service deployed on AWS with CI/CD, monitoring, and security, as well as an enterprise-grade RAG system for document querying with advanced retrieval, observability, and evaluation pipelines.
+<br/>
 
-**Current Focus:**
-* Developing low-latency microservices for NLP inference and RAG systems, optimized for resource-constrained environments (e.g., AWS t3.micro with 1GB RAM).
-* Optimizing Docker container sizes, build times, and multi-stage builds for efficient deployments.
-* Implementing strict observability standards (Prometheus/Grafana/Langfuse) with real-time metrics, tracing, and alerting.
-* Enhancing ML reproducibility through pinned model versions (e.g., Git SHA hashes for Hugging Face models) and automated evaluation (Ragas, W&B).
-* Exploring Kubernetes for scalable orchestration and integrating tools like FlashRank for advanced reranking in RAG pipelines.
-
-For details on my skills and projects:
-- [Technical Proficiency](./technical-proficiency.md)
-- [Featured Projects](./featured-projects.md)
+- 🌱 I'm currently learning **Kubernetes Operators, Advanced LLM Fine-tuning, and Vector DB scaling**
+- 👯 I'm looking to collaborate on **Open Source ML infrastructure tools and Cloud-native projects**
+- 🤝 I'm looking for help with **Advanced Kubernetes patterns for ML workloads**
+- 💬 Ask me about **Python, Docker, AWS, CI/CD, FastAPI, and LangChain**
+- 📫 How to reach me: **andriy.vlonha.dev@gmail.com**
 
 ---
-## 0x04. DEVELOPMENT METHODOLOGY
-I follow a strict set of principles to ensure code quality and system reliability:
-* **Infrastructure as Code (IaC):** Services are defined in `docker-compose.yml` and Kubernetes manifests, ensuring environments are identical across development, testing, and production.
-* **Observability First:** No service is deployed without health checks (`/health`), metrics exposure (`/metrics`), and tracing (e.g., Langfuse decorators for token counts and latency).
-* **Security Left-Shift:** Credentials are never hardcoded; use `.env` files, GitHub Secrets, and API key authentication from day one. Implement SSL/TLS with auto-renewal (Let's Encrypt).
-* **Documentation:** Detailed READMEs with architectural diagrams (Mermaid.js), API specifications (Swagger), setup guides, and troubleshooting sections.
-* **Testing & Quality:** Unit/integration tests with Pytest and mocking; linting with Ruff/Flake8; security scans with Bandit; load testing with Locust to identify bottlenecks (e.g., RPS limits).
-* **CI/CD Automation:** GitHub Actions for linting, testing, building, and deploying to AWS EC2 or Kubernetes, triggered on every push to main.
-* **MLOps Practices:** Experiment tracking with Weights & Biases (W&B), model versioning to prevent silent failures, and scheduled tasks (e.g., APScheduler for data archiving to S3).
----
-## 0x05. TELEMETRY / GITHUB STATS
-<div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Western-1&show_icons=true&theme=graywhite&hide_border=true" alt="GitHub Stats" />
+
+<h3 align="center">🛠️ Languages and Tools</h3>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,bash,aws,docker,kubernetes,git,githubactions,fastapi,postgres,redis,nginx,grafana,kafka,linux,pytorch,tensorflow,scikitlearn,rust,mysql,flask,django&perline=10" />
+  </a>
   <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Western-1&layout=compact&theme=graywhite&hide_border=true&langs_count=8" alt="Top Languages" />
+  <a href="https://huggingface.co/">
+    <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Transformers-yellow?style=for-the-badge" />
+  </a>
+  <a href="https://mlflow.org/">
+    <img src="https://img.shields.io/badge/MLflow-MLOps-blue?style=for-the-badge" />
+  </a>
+  <a href="https://python.langchain.com/">
+    <img src="https://img.shields.io/badge/🦜🔗%20LangChain-AI-green?style=for-the-badge" />
+  </a>
+</p>
+
+---
+
+<h3 align="center">🚀 Featured Projects</h3>
+
+| Project | Stack | Description |
+| :--- | :--- | :--- |
+| **[Enterprise RAG System](https://github.com/Western-1/rag-doc-chat)** | `LangChain` `Qdrant` `K8s` | Production-grade RAG with Langfuse tracing, FlashRank reranking, and 94% recall. |
+| **[Churn MLOps Pipeline](https://github.com/Western-1/churn-pipeline)** | `Airflow` `MLflow` `MinIO` | End-to-end pipeline with drift detection, automated retraining, and Grafana dashboards. |
+| **[NLP Inference Service](https://github.com/Western-1/nlp-inference-service)** | `FastAPI` `AWS` `Nginx` | High-availability microservice for Transformer models on constrained hardware (1GB RAM). |
+
+---
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Western-1&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Western-1" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Western-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Western-1" width="48%" />
 </div>
 <br/>
 <div align="center">
-  <i>"Reliability is the most important feature."</i>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Western-1&theme=tokyonight&hide_border=true" alt="Western-1" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Western-1&label=Profile%20views&color=0e75b6&style=flat" alt="Western-1" />
 </div>
