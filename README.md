@@ -40,7 +40,7 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,aws,docker,kubernetes,git,githubactions,fastapi,postgres,redis,nginx,grafana,kafka,linux,pytorch,tensorflow,scikitlearn,rust,mysql,flask,django&perline=11" />
+    <img src="https://skillicons.dev/icons?i=python,bash,aws,docker,kubernetes,git,githubactions,fastapi,postgres,redis,nginx,grafana,prometheus,kafka,linux,pytorch,tensorflow,scikitlearn,rust,mysql,flask,django&perline=11" />
   </a>
   <br/><br/>
   <a href="https://huggingface.co/">
