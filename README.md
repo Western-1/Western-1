@@ -1,7 +1,14 @@
 <div align="center">
-  <h1>Hi 👋, I'm Andriy Vlonha</h1>
+  <h1>Hi there, I'm Andriy Vlonha! 👋</h1>
   <h3>Junior MLOps Engineer | Building Reliable Production ML Systems</h3>
-  
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Reliable+ML+Pipelines;Automating+Infrastructure;Deploying+Models+to+Production;CI%2FCD+%26+Cloud+Enthusiast" alt="Typing SVG" />
+  </a>
+
+
+  <br/>
+
   <img src="https://img.shields.io/badge/Looking%20for-Junior%20MLOps%20Engineer-orange?style=for-the-badge&logo=rocket" alt="Open to Work" />
 
   <br/><br/>
@@ -19,6 +26,8 @@
 
 <br/>
 
+### 🧐 About Me :
+
 - 🌱 I'm currently learning **Kubernetes Operators, Advanced LLM Fine-tuning, and Vector DB scaling**
 - 👯 I'm looking to collaborate on **Open Source ML infrastructure tools and Cloud-native projects**
 - 🤝 I'm looking for help with **Advanced Kubernetes patterns for ML workloads**
@@ -27,12 +36,13 @@
 
 ---
 
-<h3 align="center">🛠️ Languages and Tools</h3>
-<p align="center">
+### 🛠️ My Stack and Tools :
+
+<div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,bash,aws,docker,kubernetes,git,githubactions,fastapi,postgres,redis,nginx,grafana,kafka,linux,pytorch,tensorflow,scikitlearn,rust,mysql,flask,django&perline=10" />
+    <img src="https://skillicons.dev/icons?i=python,bash,aws,docker,kubernetes,git,githubactions,fastapi,postgres,redis,nginx,grafana,kafka,linux,pytorch,tensorflow,scikitlearn,rust,mysql,flask,django&perline=11" />
   </a>
-  <br/>
+  <br/><br/>
   <a href="https://huggingface.co/">
     <img src="https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Transformers-yellow?style=for-the-badge" />
   </a>
@@ -42,11 +52,11 @@
   <a href="https://python.langchain.com/">
     <img src="https://img.shields.io/badge/🦜🔗%20LangChain-AI-green?style=for-the-badge" />
   </a>
-</p>
+</div>
 
 ---
 
-<h3 align="center">🚀 Featured Projects</h3>
+### 🚀 Featured Projects :
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
@@ -56,19 +66,16 @@
 
 ---
 
-<h3 align="center">📊 GitHub Stats</h3>
+### 📊 GitHub Stats :
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Western-1&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="Western-1" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Western-1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Western-1" width="48%" />
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Western-1&theme=tokyonight&hide_border=true" alt="Western-1" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=Western-1&theme=github_dark&graph=true&languages=true&streak=true&stats=true&header=false&summary=true&profile=false" alt="Western-1's GitHub Insights" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Western-1&label=Profile%20views&color=0e75b6&style=flat" alt="Western-1" />
+  <a href="https://github.com/Western-1">
+    <img src="https://komarev.com/ghpvc/?username=Western-1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
 </div>
