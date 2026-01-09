@@ -60,6 +60,7 @@
 
 | Project | Stack | Description |
 | :--- | :--- | :--- |
+| **[Real-time Object Detection](https://github.com/Western-1/object-detection-service)** | `YOLOv8` `FastAPI` `Docker` | Real-time inference service with CPU throttling (30 FPS), MJPEG streaming, and Prometheus observability. |
 | **[Enterprise RAG System](https://github.com/Western-1/rag-doc-chat)** | `LangChain` `Qdrant` `K8s` | Production-grade RAG with Langfuse tracing, FlashRank reranking, and 94% recall. |
 | **[Churn MLOps Pipeline](https://github.com/Western-1/churn-pipeline)** | `Airflow` `MLflow` `MinIO` | End-to-end pipeline with drift detection, automated retraining, and Grafana dashboards. |
 | **[NLP Inference Service](https://github.com/Western-1/nlp-inference-service)** | `FastAPI` `AWS` `Nginx` | High-availability microservice for Transformer models on constrained hardware (1GB RAM). |
