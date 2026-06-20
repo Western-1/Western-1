@@ -19,9 +19,6 @@
   <a href="mailto:andriy.vlonha.dev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-  <a href="https://andriyvlonha.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=firefox" alt="Website" />
-  </a>
 </div>
 
 <br/>
