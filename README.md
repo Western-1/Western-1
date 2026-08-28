@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hi there, I'm Andriy Vlonha! 👋</h1>
-  <h3>Junior MLOps Engineer | Building Reliable Production ML Systems</h3>
+  <h3>DevOps / MLOps Engineer</h3>
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Building+Reliable+ML+Pipelines;Automating+Infrastructure;Deploying+Models+to+Production;CI%2FCD+%26+Cloud+Enthusiast" alt="Typing SVG" />
