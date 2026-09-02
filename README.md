@@ -9,7 +9,8 @@
 
   <br/>
 
-  <img src="https://img.shields.io/badge/Looking%20for-Junior%20MLOps%20Engineer-orange?style=for-the-badge&logo=rocket" alt="Open to Work" />
+  <img src="https://img.shields.io/badge/Looking%20for-DevOps%20%2F%20MLOps%20Engineer-orange?style=for-the-badge&logo=rocket" alt="Open to Work" />
+
 
   <br/><br/>
 
